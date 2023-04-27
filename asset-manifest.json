@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meduzzen_internship_frontend/static/css/main.55f091bb.css",
+    "main.js": "/meduzzen_internship_frontend/static/js/main.072fbd91.js",
+    "index.html": "/meduzzen_internship_frontend/index.html",
+    "main.55f091bb.css.map": "/meduzzen_internship_frontend/static/css/main.55f091bb.css.map",
+    "main.072fbd91.js.map": "/meduzzen_internship_frontend/static/js/main.072fbd91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f091bb.css",
+    "static/js/main.072fbd91.js"
+  ]
+}
